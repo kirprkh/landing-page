@@ -82,12 +82,13 @@ a,
 }
 
 .sign-up {
-    border-style: none;
-    border-radius: 8px;
     background-color: #3882F6;
-    padding: 8px 24px;
     color: white;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 18px;
     font-weight: 700;
+    padding: 8px 30px;
 }
 
 .info {
